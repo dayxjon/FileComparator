@@ -1,0 +1,10 @@
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\bin\Debug\FileComparator.exe.config
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\bin\Debug\FileComparator.exe
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\bin\Debug\FileComparator.pdb
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\obj\Debug\FileComparator.csprojResolveAssemblyReference.cache
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\obj\Debug\FileComparator.Properties.Resources.resources
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\obj\Debug\FileComparator.csproj.GenerateResource.Cache
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\obj\Debug\FileComparator.csproj.CoreCompileInputs.cache
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\obj\Debug\FileComparator.exe
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\obj\Debug\FileComparator.pdb
+C:\Users\anon\Documents\Visual Studio 2017\Projects\FileComparator\FileComparator\obj\Debug\FileComparator.MainFrm.resources
